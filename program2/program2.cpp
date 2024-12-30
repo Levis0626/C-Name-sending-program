@@ -20,6 +20,7 @@ void program2::welcome(const std::string& str) {
     std::cout << "Szia " << str << "!" << std::endl;
 }
 void program2::emptyStr() {
+    std::cout << "---->" << std::endl;
     std::cout << "nem adtal meg nevet!" << std::endl;
 }
 
