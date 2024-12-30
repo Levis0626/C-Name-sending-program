@@ -25,7 +25,7 @@ void program2::emptyStr() {
 
 
 int main() {
-
+    std::cout << "Test msg" << std::endl;
     std::string str;
     bool b;
     program2 p2;
