@@ -1,1 +1,1 @@
-vmi gané kód
+asdasdvmi gané kód
