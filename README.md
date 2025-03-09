@@ -1,1 +1,2 @@
 vmi gané kód
+asdxyd
